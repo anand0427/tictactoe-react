@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### [This project was for practice. You can take a look at the tutorial for instructions and started code.](https://reactjs.org/tutorial/tutorial.html#completing-the-game)
+
 ## Available Scripts
 
 In the project directory, you can run:
